@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=League+Spartan:wght@100..900&family=Limelight&family=Magra:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(../img/background1.png);
+    background-size: cover;
+}
+
+.logo {
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.nome1 {
+    font-family: "Limelight", sans-serif;
+    font-size: 30px;
+    display: flex;
+    position: absolute;
+    color: #FF8C9E;
+    margin-top: -100px;
+    margin-left: 152px;
+    text-shadow: 0px 2px 3px #8700894d;
+}
+
+.nome2 {
+    font-family: "Limelight", sans-serif;
+    font-size: 30px;
+    display: flex;
+    position: absolute;
+    color: #E8AEB7;
+    margin-top: -100px;
+    margin-left: 150px;
+    text-shadow: 0px 2px 3px #87008a4d;
+}
+
+.centro {
+    font-family: "League Spartan", sans-serif;
+    font-size: 12px;
+    display: flex;
+    position: absolute;
+    color: #000000;
+    margin-top: -60px;
+    margin-left: 150px;
+    font-weight: 600;
+}
